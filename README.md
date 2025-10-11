@@ -3,8 +3,8 @@ These codes are still under validation and construction. License & Use. This rep
 
 Both of this computational models represents a monosynaptic spinal reflex and polysynaptic circuits. The former pathways is sensory -> motor neurons, and latters, sensory -> interneuron -> motor neurons.
 The two scripts features:
-**Neuron models**: Conductance-based LIF with synaptic reversal potentials
-**Synaptic dynamics**: Alpha-kernel temporal profiles with axonal delays
-**Motor pool**: Two-compartment neurons (soma + dendrite) with dendritic nonlinearities
-**Circuit types**: Monosynaptic (sensory→motor) and polysynaptic (sensory→interneuron→motor)
-**Analysis**: Information transfer quantified via kNN mutual information (KSG estimator)
+ **Neuron models**: Conductance-based LIF with synaptic reversal potentials
+ **Synaptic dynamics**: Alpha-kernel temporal profiles with axonal delays
+ **Motor pool**: Two-compartment neurons (soma + dendrite) with dendritic nonlinearities
+ **Circuit types**: Monosynaptic (sensory→motor) and polysynaptic (sensory→interneuron→motor)
+ **Analysis**: Information transfer quantified via kNN mutual information (KSG estimator)
